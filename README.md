@@ -1,5 +1,5 @@
 # maglab-main
-The central public repository for the lab.
+The FORMER central public repository for the lab. The lab github is now https://github.com/comp-cogneuro-lang
 
 ## Usage
 
